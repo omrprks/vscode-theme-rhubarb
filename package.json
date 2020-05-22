@@ -1,8 +1,9 @@
 {
   "name": "rhubarb",
+  "private": true,
   "displayName": "Rhubarb",
   "description": "Rhubarb - a simple Visual Studio Code color theme",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Omar Parkes <omr.prks@gmail.com> (https://github.com/omrprks)",
   "publisher": "omrprks",
   "license": "MIT",
