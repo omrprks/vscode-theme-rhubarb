@@ -1,0 +1,39 @@
+{
+  "name": "rhubarb",
+  "displayName": "Rhubarb",
+  "description": "Rhubarb - a simple Visual Studio Code color theme",
+  "version": "0.2.2",
+  "author": "Omar Parkes <omr.prks@gmail.com> (https://github.com/omrprks)",
+  "publisher": "omrprks",
+  "license": "MIT",
+  "repository": "https://github.com/omrprks/vscode-theme-rhubarb.git",
+  "bugs": "https://github.com/omrprks/vscode-theme-rhubarb/issues",
+  "homepage": "https://github.com/omrprks/vscode-theme-rhubarb#readme",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rhubarb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rhubarb-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "^3.2.0",
+    "husky": "^4.2.5",
+    "vsce": "^1.75.0"
+  }
+}
