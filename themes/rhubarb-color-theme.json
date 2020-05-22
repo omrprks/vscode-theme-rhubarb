@@ -299,6 +299,55 @@
       "settings": {
         "foreground": "#08804ebb"
       }
-    }
+    },
+    {
+      "name": "Entity",
+      "scope": "entity",
+      "settings": {
+        "foreground": "#F89BBC"
+      }
+    },
+    {
+      "name": "Constant",
+      "scope": "constant",
+      "settings": {
+        "foreground": "#EE4843"
+      }
+    },
+    {
+      "name": "Meta Brace",
+      "scope": [
+        "meta.brace",
+        "punctuation.definition.parameters.begin.js",
+        "punctuation.definition.parameters.end.js"
+      ],
+      "settings": {
+        "foreground": "#E1EFFF"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#E1EFFF"
+      }
+    },
+    {
+      "name": "Json - Support",
+      "scope": "source.json support",
+      "settings": {
+        "foreground": "#F89BBC"
+      }
+    },
+    {
+      "name": "Json - String",
+      "scope": [
+        "source.json string",
+        "source.json punctuation.definition.string",
+      ],
+      "settings": {
+        "foreground": "#7CD9B0"
+      }
+    },
   ]
 }
