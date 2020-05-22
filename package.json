@@ -6,7 +6,7 @@
   "author": "Omar Parkes <omr.prks@gmail.com> (https://github.com/omrprks)",
   "publisher": "omrprks",
   "license": "MIT",
-  "repository": "github:omrprks/vscode-theme-rhubarb.git",
+  "repository": "https://github.com/omrprks/vscode-theme-rhubarb.git",
   "bugs": "https://github.com/omrprks/vscode-theme-rhubarb/issues",
   "homepage": "https://github.com/omrprks/vscode-theme-rhubarb#readme",
   "engines": {
