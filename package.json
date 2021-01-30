@@ -32,9 +32,9 @@
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "commitizen": "^4.1.2",
-    "cz-conventional-changelog": "^3.2.0",
-    "husky": "^4.2.5",
-    "vsce": "^1.75.0"
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^4.3.8",
+    "vsce": "^1.84.0"
   }
 }
