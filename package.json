@@ -28,6 +28,7 @@
   "scripts": {
     "commit": "git-cz",
     "publish": "vsce publish",
+    "vscode:prepublish": "npm run build",
     "build": "node ./scripts/build.js"
   },
   "devDependencies": {
