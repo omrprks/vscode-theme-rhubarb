@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Rhubarb",
-  "type": "dark"
+  "type": "dark",
+  "semanticHighlighting": false
 }
