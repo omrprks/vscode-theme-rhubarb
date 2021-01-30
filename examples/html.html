@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Title</title>
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      --var: #eee;
+    }
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+    #id {
+      color: var(--var);
+    }
+    .class {
+      color: var(--var);
+    }
+  </style>
+</head>
+<body>
+  <div id="id">
+    <p class="class">Paragraph</p>
+  </div>
+  <script type="text/javascript"></script>
+</body>
+</html>
